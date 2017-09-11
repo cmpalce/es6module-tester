@@ -1,7 +1,7 @@
 ## Description
 
 A simple setup that I use for experimenting and testing different JS ECMAScript 2015 stuff with ES6 modules.
-This is also in reference to my blog about "<a href="https://cmpalce.com/blog/how-to-run-es6-module-in-nodejs">https://cmpalce.com/blog/how-to-run-es6-module-in-nodejs</a>".
+This is also in reference to my blog about "<a href="https://cmpalce.com/blog/how-to-run-es6-module-in-nodejs">How To Run ES6 Module In NodeJS</a>".
 
 ## Requirements
 
